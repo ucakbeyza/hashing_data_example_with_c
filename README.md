@@ -5,7 +5,7 @@
 This is a simple cargo tracking system written in C programming language. It uses a hash table to store and manage cargo data efficiently. The collision resolution method used is double hashing.
 
 
-  Features
+Features
   
 * Add cargo (via user input or from veriler.txt)
 * List all cargos
