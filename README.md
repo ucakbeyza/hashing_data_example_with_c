@@ -13,7 +13,8 @@ Features
 * Deliver and remove cargo from the system
 * Fast access using hash table logic
 
-  Technologies Used
+
+Technologies Used
   
 * C Language
 * Hash Table
@@ -21,7 +22,8 @@ Features
 * Dynamic Memory Management (malloc, free)
 * File I/O (fopen, fscanf, fprintf)
 
-  File Structure
+
+File Structure
   
 * main.c – Contains the full source code
 * veriler.txt – A plain text file used for data persistence. The program reads from and writes to this file.
